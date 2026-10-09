@@ -55,6 +55,7 @@
 | 集成 | Nacos Live 验收与 Gateway 架构 | [nacos-live-architecture.md](nacos-live-architecture.md) |
 | 集成 | Tailscale 部署 | [deployment/TAILSCALE.md](deployment/TAILSCALE.md) |
 | 运维 | 工作区管理 API | [WORKSPACE_ADMIN.md](WORKSPACE_ADMIN.md) |
+| 运维 | OpenTelemetry 与 Langfuse | [OBSERVABILITY.md](OBSERVABILITY.md) |
 | 运维 | 安全 | [SECURITY.md](../../SECURITY.md) |
 | 运维 | 支付安全 | [security/payments.md](security/payments.md) |
 | 运维 | 工具治理 Sidecar | [governance/sidecar-pattern.md](governance/sidecar-pattern.md) |

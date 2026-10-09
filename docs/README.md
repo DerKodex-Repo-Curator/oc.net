@@ -25,6 +25,7 @@ Use this page as the map. If you are unsure where to go next, the groups below a
 | Doc | What it covers |
 | --- | --- |
 | [USER_GUIDE.md](USER_GUIDE.md) | Providers, tools, skills, channels, and the day-to-day operator surface. |
+| [OBSERVABILITY.md](OBSERVABILITY.md) | OpenTelemetry export configuration, including trace-only OTLP routing to Langfuse. |
 | [RELEASES.md](RELEASES.md) | Desktop download bundles, release assets, and signing/notarization status. |
 | [AgentQi Mobile](https://github.com/agentqi/agentqi-mobile) | Open-source .NET MAUI Android companion for monitoring and operating an OpenClaw.NET gateway; includes build-from-source instructions. |
 | [TOOLS_GUIDE.md](TOOLS_GUIDE.md) | Native and optional tool catalog, behavior, and configuration. |
